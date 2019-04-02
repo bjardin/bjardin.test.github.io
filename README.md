@@ -9,5 +9,17 @@ permalink: /blog.html
 ---
 permalink: /About Me.html
 ---
-permalink: /career.html
+permalink: /Career.html
+---
+permalink: /Branding.html
+---
+permalink: /Copywriting.html
+---
+permalink: /Logo.html
+---
+permalink: /Social.html
+---
+permalink: /Yoyo.html
+---
+permalink: /Video.html
 ---
