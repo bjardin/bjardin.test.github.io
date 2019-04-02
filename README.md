@@ -1,9 +1,13 @@
-# nukeduser2.github.io
+# bjardin.test.github.io
 
 ---
 permalink: /index.html
 ---
 
 ---
-permalink: /digital.html
+permalink: /blog.html
+---
+permalink: /About Me.html
+---
+permalink: /career.html
 ---
