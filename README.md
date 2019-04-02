@@ -1,1 +1,9 @@
-# bjardin.test.github.io
+# nukeduser2.github.io
+
+---
+permalink: /index.html
+---
+
+---
+permalink: /digital.html
+---
