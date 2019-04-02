@@ -23,3 +23,5 @@ permalink: /Yoyo.html
 ---
 permalink: /Video.html
 ---
+permalink: /resume.html
+---
