@@ -21,7 +21,7 @@ permalink: /Social.html
 ---
 permalink: /Yoyo.html
 ---
-permalink: /Video.html
+permalink: /Videos.html
 ---
 permalink: /resume.html
 ---
